@@ -1,3 +1,4 @@
+
 var csr = document.querySelector(".csr")
 var main = document.querySelector("#main")
 var kaka = document.querySelectorAll("#bottom .elem")
